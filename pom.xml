@@ -38,7 +38,7 @@
         <min_jdk_version>1.8</min_jdk_version>
         <source_jdk_version>1.8</source_jdk_version>
         <target_jdk_version>1.8</target_jdk_version>
-        <checkstyle.version>6.12.1</checkstyle.version>
+        <checkstyle.version>8.29</checkstyle.version>
         <checkstyle.config.location>settings/checkstyle.xml</checkstyle.config.location>
         <checkstyle.suppressions.location>settings/checkstyle-suppressions.xml</checkstyle.suppressions.location>
         <checkstyle.header.file>settings/java.header</checkstyle.header.file>
